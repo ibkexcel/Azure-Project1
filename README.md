@@ -78,6 +78,7 @@ When I select a specific service or resource, a service menu will appear with co
 
                                      Custom Dashboard Screenshot
 <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/6640264f-7412-4f5b-8239-b064287033e7" />
+
 Process Undertaken to Create a Custom Dashboard:
 To create a custom dashboard for my Azure subscription, I followed these steps:
 Sign in to the Azure Portal:
@@ -97,6 +98,7 @@ I could now view my new dashboard by selecting the arrow next to the dashboard n
 
                                          3MTT-PROJECT Resource Group
 <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/fbdb5866-127a-4ecf-bc1e-b18d88c73e07" />
+
 The Resource Group named "3MTT-PROJECT" was successfully created and is in the "Succeeded" provisioning state. This indicates that the Resource Group is fully operational and ready for use in your Azure portal directory.
 Summary Report.  
 Region Selection
@@ -125,6 +127,7 @@ Getting Started Column is an overview display page to manage billing for product
 
                         Summary Section Screenshot
 <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/df73bbb4-f8bd-420c-b025-9796f6970720" />
+
       Page (Summary Section) Highlights:
 This page is an overview display page to view the summary for outstanding payment billing invoices, upcoming invoices, invoices accumulation over time period, spending rate and forecast, monthly product by charges, billing alerts, shortcuts and remaining credit alerts.
 
@@ -190,6 +193,7 @@ These tools are available from every resource group; subscription, management gr
 
 				      Storage Account Screenshot
 <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/e82b7b3e-ec92-4bb7-9166-eb11b54ee9eb" />
+
 A Storage account on Azure is a service that provides a unique namespace for storing your Azure Storage data objects, such as blobs, files, queues, and tables. It allows me to access my data from anywhere in the world over HTTP or HTTPS. Azure Storage accounts are designed to be durable, highly available, secure, and massively scalable, making them suitable for a wide range of applications and workloads. They support different types of storage services and redundancy options, ensuring that my data is protected and accessible when needed.
 
                      Azure Project Setup Completion Checklist:
