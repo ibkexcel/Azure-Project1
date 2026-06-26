@@ -38,6 +38,7 @@ The Troubleshooting checklist shortly highlights a number of pathway solutions t
                                        PROJECT CONTENT
                            Azure Portal Dashboard Screenshot
 <img width="988" height="557" alt="image" src="https://github.com/user-attachments/assets/de5b9556-1711-4587-982b-8903d453a06c" />
+
 Account Creation Documentation:
 To create an Azure account with my email, phone, and credit card verification, I followed these steps:
 Sign Up for Azure:
@@ -59,7 +60,7 @@ Finally, I was redirected to the Azure portal dashboard.
 
                                          Azure Portal Navigation:
 Navigating the Azure Portal
- To effectively navigate the Azure portal, it's important to understand its key elements and how to access various    services. Here's a step-by-step guide:
+To effectively navigate the Azure portal, it's important to understand its key elements and how to access various    services. Here's a step-by-step guide:
 Portal Menu:
 The portal menu is my primary navigation tool. It allows me to quickly access key functionalities and resource types. It’s found on the left side of the Azure portal.
 I can choose between fly-out mode (hidden until needed) or docked mode (always visible) for the portal menu.
@@ -76,7 +77,7 @@ Service Menu:
 When I select a specific service or resource, a service menu will appear with commands specific to that area. This menu helps me manage and configure the selected service.
 
                                      Custom Dashboard Screenshot
-        <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/6640264f-7412-4f5b-8239-b064287033e7" />
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/6640264f-7412-4f5b-8239-b064287033e7" />
 Process Undertaken to Create a Custom Dashboard:
 To create a custom dashboard for my Azure subscription, I followed these steps:
 Sign in to the Azure Portal:
@@ -95,7 +96,7 @@ Access and Manage Dashboards:
 I could now view my new dashboard by selecting the arrow next to the dashboard name to see other available dashboards. This list may include dashboards shared by other users.
 
                                          3MTT-PROJECT Resource Group
-            <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/fbdb5866-127a-4ecf-bc1e-b18d88c73e07" />
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/fbdb5866-127a-4ecf-bc1e-b18d88c73e07" />
 The Resource Group named "3MTT-PROJECT" was successfully created and is in the "Succeeded" provisioning state. This indicates that the Resource Group is fully operational and ready for use in your Azure portal directory.
 Summary Report.  
 Region Selection
@@ -117,26 +118,31 @@ When deploying resources in Azure, customers must ensure their applications are 
 This report provides a concise overview of the region chosen for your resources and how the Shared Responsibility Model applies to your Azure deployment.
 
                          Getting Started Screenshot(Cost Management Section)
-       <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/3b2557d7-66de-470c-b8ae-c267b94c81a5" />
-                  **Page (Getting Started) Highlights:**
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/3b2557d7-66de-470c-b8ae-c267b94c81a5" />
+
+Page (Getting Started) Highlights:
 Getting Started Column is an overview display page to manage billing for products and services in my billing account.  It has a list of icons to configure access usage, creating budgets, view billing profiles and send transfer requests on full display.
 
                         Summary Section Screenshot
-      <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/df73bbb4-f8bd-420c-b025-9796f6970720" />
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/df73bbb4-f8bd-420c-b025-9796f6970720" />
       Page (Summary Section) Highlights:
 This page is an overview display page to view the summary for outstanding payment billing invoices, upcoming invoices, invoices accumulation over time period, spending rate and forecast, monthly product by charges, billing alerts, shortcuts and remaining credit alerts.
 
                         Cost Analysis Screenshot
-      <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/00bc04c2-8ea6-4d60-b8e6-0bd1f9705051" />
-               **Page (Cost Analysis) Highlights:**
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/00bc04c2-8ea6-4d60-b8e6-0bd1f9705051" />
+	   
+               Page (Cost Analysis) Highlights:
 The Cost analysis display page under the Cost management section is the configuration setup page for my billing account. It displays three sections by default with each having a number of filter item type parameters selection drop-down options to select for a resource or service type category.
+
                        Cost Alert Screenshot
-       <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/c69b27ce-d5dd-4eec-ad13-15888f70149a" />
-     Page (Cost Alert) Highlights:
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/c69b27ce-d5dd-4eec-ad13-15888f70149a" />
+
+Page (Cost Alert) Highlights:
 The display page is where I get to configure to subscribe for alerts, get notified about changes, and add new alert rules for Users.
 
                        Budget Alert Screenshot
-      <img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/78a0493b-7e91-4032-b5e8-81b8c19e47f4" />
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/78a0493b-7e91-4032-b5e8-81b8c19e47f4" />
+
 Page (Budget Alert) Highlights:
 The budget alert display page under Cost Management allows me to set and manage budget thresholds and alerts for my Azure spending. It provides a visual overview of my budget status, including notifications when spending reaches certain thresholds, such as 75%, helping me monitor and control costs effectively. From the page screenshot displayed, alert conditions set for budget alerts shows forecasted cost type selection made along with the calculated total estimated 75% budget for time period valued at $150. Any futuristic alert notifications get forwarded to my email which was added for same purpose.
 
@@ -171,7 +177,8 @@ Use Conditional Access policies for advanced scenarios to enforce MFA only in sp
 These measures help protect an organization from compromised credentials and unauthorized access, ensuring a secure environment for your Azure subscription.
 
                         Cost Management overview section.
-		<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/f77ac9bc-1521-4971-85fa-73ae36c80606" />
+<img width="1073" height="605" alt="image" src="https://github.com/user-attachments/assets/f77ac9bc-1521-4971-85fa-73ae36c80606" />
+
                           Cost Analysis and Budgets in Azure
 Cost Analysis is a tool within Azure that helps you visualize and analyze your organizational costs. It allows you to:
 Understand what you're spending and where you're spending it.
