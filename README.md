@@ -1,6 +1,6 @@
                                      #Azure-Project1
 								
-                                *Azure Project Description*
+                                Azure Project Description
 Azure Project Setup - Personal Documentation A comprehensive documentation of my Azure cloud journey, covering account setup, resource management, cost optimization, and security implementation.
 
                                 Project Highlights
@@ -35,7 +35,7 @@ Contains full completion checklisting of Account Creation, Navigation & Access s
 The Troubleshooting checklist shortly highlights a number of pathway solutions to addressing various issues. While the Microsoft premier support option highlights the Professional assistance services Microsoft offers in addressing issues effectively.
 
 							 
-                                       *PROJECT CONTENT*
+                                       PROJECT CONTENT
                            Azure Portal Dashboard Screenshot
 <img width="988" height="557" alt="image" src="https://github.com/user-attachments/assets/de5b9556-1711-4587-982b-8903d453a06c" />
 Account Creation Documentation:
